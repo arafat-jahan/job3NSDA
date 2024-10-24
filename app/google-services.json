@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679650476586",
+    "project_id": "job-3-nsda",
+    "storage_bucket": "job-3-nsda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679650476586:android:a7ce74ae0f1ddd29acb953",
+        "android_client_info": {
+          "package_name": "com.example.job_3_nsda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMfZGfJpndSyXncPQCkc0v9bRrE9Ryg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
